@@ -7,3 +7,8 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+### ejemplos a ignorar para la clase
+.Rhistory
+*.out
+/archive
