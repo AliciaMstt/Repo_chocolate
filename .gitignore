@@ -12,3 +12,6 @@ Thumbs.db
 .Rhistory
 *.out
 /archive
+
+### Ignora los archivos guardados en data
+/data
